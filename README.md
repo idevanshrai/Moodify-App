@@ -70,6 +70,3 @@ Devansh Rai
 ## Contact:
 
 idevanshrai@gmail.com
-
----
-
